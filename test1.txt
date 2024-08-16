@@ -1,0 +1,1 @@
+bin  src  test1.txt
